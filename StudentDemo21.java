@@ -42,7 +42,7 @@ public class StudentDemo21 {
         System.out.println();
 
         topStudents.insertionSort();
-        System.out.println("Sorted list (by GPA, ascending) using Insertion sort: ");
+        System.out.println("Sorted list (by GPA, descending) using Insertion sort: ");
         topStudents.print();
 
         sc.close();
